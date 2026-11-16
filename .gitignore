@@ -1,0 +1,21 @@
+# Local docs (kept on disk, not tracked)
+/*.md
+
+# Local OpenCode agent skills + lockfile
+.agents/
+skills-lock.json
+
+# Dependencies / build output
+node_modules/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

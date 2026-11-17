@@ -5,6 +5,9 @@
 .agents/
 skills-lock.json
 
+# Neon CLI project link (local only)
+/.neon
+
 # Dependencies / build output
 node_modules/
 dist/
@@ -13,6 +16,7 @@ build/
 # Environment / secrets
 .env
 .env.*
+!.env.example
 
 # OS / editor
 Thumbs.db

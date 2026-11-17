@@ -1,5 +1,6 @@
 # Local docs (kept on disk, not tracked)
 /*.md
+documentation/
 
 # Local OpenCode agent skills + lockfile
 .agents/
